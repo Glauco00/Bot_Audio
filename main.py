@@ -1,3 +1,6 @@
+#pip install SpeechRecognition
+#pip install pyaudio
+
 import speech_recognition as sr
 
 # Inicializa o reconhecedor de fala
